@@ -6,5 +6,6 @@ public class Navigate {
     @Test
     public void nav(){
         System.out.println("nav to website");
+        System.out.println("nav to website-1");
     }
 }
